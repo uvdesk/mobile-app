@@ -57,14 +57,6 @@ Widget getTextField(
         suffixIcon: iconButton,
       ),
       validator: validator,
-      // onSaved: (email) {
-      //   emailValue = email!;
-      // },
-      // onChanged: (email) {
-      //   emailValue = email;
-      // },
-      // textInputAction: TextInputAction.next,
-      // keyboardType: TextInputType.emailAddress,
     );
 
 }
