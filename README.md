@@ -35,3 +35,32 @@ The below mentioned files will help you with the configuration of the code.
 - [mobikul_theme.dart](https://github.com/uvdesk/mobile_app/blob/main/lib/mobikul-uvdesk/configuration/mobikul_theme.dart)
   Change the colors as per your need.
 
+## Complete user guide
+To read more about the features of the app, please visit the article [here](https://www.uvdesk.com/en/blog/uvdesk-open-source-flutter-mobile-app/)
+
+## App Screenshots
+
+# Login Screen
+![login_screen](screenshots/login_screen.png)
+
+# Agent Profile View
+![agent_profile](screenshots/agent_profile.png)
+
+# Ticket List View
+![ticket_list](screenshots/ticket_list.png)
+
+# Ticket Details View
+![ticket_details](screenshots/ticket_details.png)
+
+# Ticket Reply View
+![ticket_reply](screenshots/ticket_reply.png)
+
+# Ticket Status Update View
+![ticket_status](screenshots/ticket_status.png)
+
+# Ticket Activity View
+![ticket_log](screenshots/ticket_log.png)
+
+# Customer Information View
+![customer_info](screenshots/customer_info.png)
+
